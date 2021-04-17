@@ -3,5 +3,5 @@
 โดยใช้มนุษย์ในการกดปุ่มนับนักศึกษา ปัญหาคือพิธีการรับปริญญากินเวลานานหลายชั่วโมงทำให้มนุษย์เกิดอาการเหนื่อยล้า
 ซึ่งจะส่งผลให้การนับความถี่พลาดได้ จากปัญหานี้ผมจึงมีไอเดียที่จะสร้างโปรแกรมนับความถี่อัตโนมัติด้วย AI ขึ้นมาแทนที่การนับด้วยมนุษย์</br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thekem0/countingstudent/main/Image/software1.png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/thekem0/countingstudent/main/Image/software1.png" width="70%" title="hover text">
 </p>
